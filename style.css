@@ -1,0 +1,84 @@
+h1{
+    text-align: center;
+    text-decoration: double;
+    color: chocolate;
+    background-color: rgb(59, 39, 14) ;
+    padding: 15px;
+    font-size: 36px;
+}
+
+body{
+    background-color: lightyellow;
+    margin-bottom: 500px;
+}
+
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 80%;
+    padding: 5px;
+    margin: auto;
+}
+
+
+ img{
+    width:68%;
+    display: block;
+    padding: 10px; 
+    border: 1px brown dotted;
+    margin-top:12px ;
+    margin-bottom:12px ;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(75, 46, 21);
+    
+ }
+
+h3{
+    text-align: center;
+    color: black;
+    text-decoration-style: wavy;
+    font-size:20px;
+    font-style: italic;
+}
+
+
+h4{
+    text-align: center;
+    font-family: cursive;
+}
+
+
+.social-media i{
+                 
+                  font-size: 30px;
+                  display: inline;
+                  padding: 10px;
+                  
+}
+
+.social-media  a{
+                  text-decoration: none;
+}
+
+
+
+.fa-instagram{
+               color: #C13584;
+}
+
+
+.fa-youtube{
+    color:#FF0000;
+}
+
+
+
+.copyright{
+            text-align: center;
+            
+}
